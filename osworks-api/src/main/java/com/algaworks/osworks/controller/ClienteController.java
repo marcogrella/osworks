@@ -21,7 +21,7 @@ public class ClienteController {
 		cliente1.setEmail("joao@email.com");
 		
 		
-		var cliente2 = new Cliente();  // igual ao de cima 
+		var cliente2 = new Cliente();  
 		cliente2.setId(2L);
 		cliente2.setNome("Maria da Silva");
 		cliente2.setTelefone("22222222");
